@@ -33,7 +33,7 @@ main {
 }
 
 .card {
-    width: 350px;
+    width: 385px;
     border-radius: 15px;
     padding: 25px;
     background-color: var(--dark_blue_card);
