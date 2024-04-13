@@ -42,7 +42,7 @@ main {
 .info, .data {
     display: flex;
     flex-direction: column;
-    gap: 22px;
+    gap: 20px;
 }
 
 .data h3, span {
@@ -73,6 +73,12 @@ main {
 
 .right p {
     font-weight: 300;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--dark_blue_line);
 }
 
 .author {
